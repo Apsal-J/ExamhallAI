@@ -1,0 +1,8 @@
+path: dataset2/
+train: images/train
+val: images/val
+names:
+  0: standing
+  1: turning around
+  2: normal
+kpt_shape: [17, 3]
